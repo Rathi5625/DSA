@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Rathi5625/DSA/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/Rathi5625/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0118-pascals-triangle](https://github.com/Rathi5625/DSA/tree/master/0118-pascals-triangle) |
 | [0239-sliding-window-maximum](https://github.com/Rathi5625/DSA/tree/master/0239-sliding-window-maximum) |
 ## Hash Table
@@ -51,4 +52,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Rathi5625/DSA/tree/master/0239-sliding-window-maximum) |
+## Binary Search
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Rathi5625/DSA/tree/master/0004-median-of-two-sorted-arrays) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Rathi5625/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
