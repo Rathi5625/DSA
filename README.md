@@ -13,10 +13,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Rathi5625/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0239-sliding-window-maximum](https://github.com/Rathi5625/DSA/tree/master/0239-sliding-window-maximum) |
 | [0977-squares-of-a-sorted-array](https://github.com/Rathi5625/DSA/tree/master/0977-squares-of-a-sorted-array) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Rathi5625/DSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Rathi5625/DSA/tree/master/0001-two-sum) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Rathi5625/DSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Linked List
 |  |
 | ------- |
@@ -48,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Rathi5625/DSA/tree/master/0239-sliding-window-maximum) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Rathi5625/DSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
