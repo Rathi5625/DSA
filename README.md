@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/Rathi5625/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/Rathi5625/DSA/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Rathi5625/DSA/tree/master/0015-3sum) |
+| [0042-trapping-rain-water](https://github.com/Rathi5625/DSA/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Rathi5625/DSA/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/Rathi5625/DSA/tree/master/0118-pascals-triangle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Rathi5625/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Rathi5625/DSA/tree/master/0042-trapping-rain-water) |
 | [0070-climbing-stairs](https://github.com/Rathi5625/DSA/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/Rathi5625/DSA/tree/master/0118-pascals-triangle) |
 ## Memoization
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Rathi5625/DSA/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Rathi5625/DSA/tree/master/0015-3sum) |
+| [0042-trapping-rain-water](https://github.com/Rathi5625/DSA/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Rathi5625/DSA/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Rathi5625/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0977-squares-of-a-sorted-array](https://github.com/Rathi5625/DSA/tree/master/0977-squares-of-a-sorted-array) |
@@ -89,4 +92,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Rathi5625/DSA/tree/master/0011-container-with-most-water) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Rathi5625/DSA/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Rathi5625/DSA/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
